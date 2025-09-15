@@ -95,8 +95,3 @@ An end-to-end machine learning project that predicts flight ticket prices based 
 ---
 
 ⭐ **If you found this helpful, please star this repo!**
-
-
-
-## 📂 Project Structure
-
