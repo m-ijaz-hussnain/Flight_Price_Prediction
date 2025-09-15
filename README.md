@@ -49,22 +49,6 @@ An end-to-end machine learning project that predicts flight ticket prices based 
 - **Tools**: Jupyter Notebook, Git, VS Code
 
 ---
-
-flight-price-prediction/
-├── data/
-│ └── flight_data.csv
-├── notebooks/
-│ ├── eda.ipynb
-│ └── model_training.ipynb
-├── models/
-│ └── xgboost_model.pkl
-├── src/
-│ └── preprocessing.py
-├── README.md
-├── requirements.txt
-└── .gitignore
-
-
 ---
 
 ## 📊 Results
@@ -91,6 +75,9 @@ flight-price-prediction/
 
 - 📘 Dataset Source: [Kaggle Dataset](https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction)
 - 🛠 Tooling: Jupyter, VS Code, Git, GitHub
+- 📊 Power BI Dashboard:
+![Dashboard Screenshot](flight_price_prediction.jpeg)
+
 
 ---
 
